@@ -12,4 +12,4 @@ Advanced data visualization
  The link of the analysis can be found here -https://www.kaggle.com/sagnik1511/correlation-of-features-advanced-visualization
  ## Please upvote this project if you like this EDA.
  
- and star the project in github :)
+ and **star** the project on github :)
